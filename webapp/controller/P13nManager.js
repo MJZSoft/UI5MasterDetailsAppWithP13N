@@ -1,6 +1,7 @@
 /*
 @Auther: Mahdi Jaberzadeh Ansari 
 @email: mahdijaberzadehansari@yahoo.co.uk
+@license: Copyright (c) 2018 MjzSoft
 */
 sap.ui.define([
 	"sap/ui/base/Object",
